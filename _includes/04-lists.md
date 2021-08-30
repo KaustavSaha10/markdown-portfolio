@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Reading
+  * Novels
+  * Manga
+  * Light novels
+* Writing
+* Watching anime
